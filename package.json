@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/rxseger/homebridge-bme280#readme",
   "dependencies": {
-    "bme280-sensor": "0.0.8",
+    "bme280-sensor": "github:nikolaykasyanov/bme280-sensor#climate-monitor-profile",
     "hap-nodejs-community-types": "https://github.com/homespun/hap-nodejs-community-types.git",
     "debug": "^2.2.0",
     "mcuiot-logger": "^0.0.7"
